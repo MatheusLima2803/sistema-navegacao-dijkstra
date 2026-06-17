@@ -1,0 +1,7 @@
+# Grafo de exemplo: Origem,Destino,Peso
+A,B,10
+A,C,15
+B,D,8
+C,D,5
+D,E,7
+C,E,20
