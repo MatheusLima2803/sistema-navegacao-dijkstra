@@ -10,15 +10,15 @@ Desenvolvido em Python como projeto final da disciplina Algoritmos e Estruturas 
 
 ### Tela Principal
 
-![Tela Principal](images/tela-principal.png)
+![Tela Principal](images/tela-principal.jpeg)
 
 ### Menor Caminho Encontrado
 
-![Rota Calculada](images/rota-calculada.png)
+![Rota Calculada](images/rota-calculada.jpeg)
 
 ### Visualização do Grafo
 
-![Zoom no Mapa](images/zoom-mapa.png)
+![Zoom no Mapa](images/zoom-mapa.jpeg)
 
 ## Funcionalidades
 
