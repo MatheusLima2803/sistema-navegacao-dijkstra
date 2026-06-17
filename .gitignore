@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build
+build/
+dist/
+
+# VS Code
+.vscode/
+
+# IDEs
+.idea/
+
+# Executáveis
+*.exe
+
+# Logs
+*.log
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
